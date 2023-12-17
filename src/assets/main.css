@@ -1,0 +1,11 @@
+@import './base.css';
+
+body {
+  background-color: #3ea748;
+}
+
+#app {
+  margin: 0 auto;
+  font-family: 'Cera';
+  font-weight: normal;
+}
